@@ -8,7 +8,7 @@
 - [ ] Finish learning rust and build something with it 
 - [ ] Make “proprietary” QR code program for future software idea (python?) 
 - [ ] Learn GitHub 
-- [ ] Start reading actual books again 
+- [x] Start reading actual books again 
 	- [ ] House of leaves
 - [ ] Burp
 # change (some aren’t doable in just a year!)
