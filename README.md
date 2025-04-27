@@ -1,2 +1,2 @@
 # cobi-public
-Cobi Thibodeau public repository
+TODO: bucket list for 2025 and onwards :)
